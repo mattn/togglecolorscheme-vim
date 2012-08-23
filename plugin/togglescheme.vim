@@ -1,5 +1,5 @@
 
-let s:colorschemes = get(g:, 'togglecolorschem', [get(g:, 'colors_name'), 'shine'])
+let s:colorschemes = get(g:, 'togglecolorscheme', [get(g:, 'colors_name'), 'shine'])
 
 augroup ToggleColorScheme
   au!
